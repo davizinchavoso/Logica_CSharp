@@ -1,0 +1,7 @@
+C:\Users\davi.sportela\Documents\C#\maiormenor12345\maiormenor12345\bin\Debug\maiormenor12345.exe.config
+C:\Users\davi.sportela\Documents\C#\maiormenor12345\maiormenor12345\bin\Debug\maiormenor12345.exe
+C:\Users\davi.sportela\Documents\C#\maiormenor12345\maiormenor12345\bin\Debug\maiormenor12345.pdb
+C:\Users\davi.sportela\Documents\C#\maiormenor12345\maiormenor12345\obj\Debug\maiormenor12345.csproj.AssemblyReference.cache
+C:\Users\davi.sportela\Documents\C#\maiormenor12345\maiormenor12345\obj\Debug\maiormenor12345.csproj.CoreCompileInputs.cache
+C:\Users\davi.sportela\Documents\C#\maiormenor12345\maiormenor12345\obj\Debug\maiormenor12345.exe
+C:\Users\davi.sportela\Documents\C#\maiormenor12345\maiormenor12345\obj\Debug\maiormenor12345.pdb

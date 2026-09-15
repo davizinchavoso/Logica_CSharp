@@ -1,0 +1,7 @@
+C:\Users\davi.sportela\Documents\C#\tempo_da_pizza\tempo_da_pizza\bin\Debug\tempo_da_pizza.exe.config
+C:\Users\davi.sportela\Documents\C#\tempo_da_pizza\tempo_da_pizza\bin\Debug\tempo_da_pizza.exe
+C:\Users\davi.sportela\Documents\C#\tempo_da_pizza\tempo_da_pizza\bin\Debug\tempo_da_pizza.pdb
+C:\Users\davi.sportela\Documents\C#\tempo_da_pizza\tempo_da_pizza\obj\Debug\tempo_da_pizza.csproj.AssemblyReference.cache
+C:\Users\davi.sportela\Documents\C#\tempo_da_pizza\tempo_da_pizza\obj\Debug\tempo_da_pizza.csproj.CoreCompileInputs.cache
+C:\Users\davi.sportela\Documents\C#\tempo_da_pizza\tempo_da_pizza\obj\Debug\tempo_da_pizza.exe
+C:\Users\davi.sportela\Documents\C#\tempo_da_pizza\tempo_da_pizza\obj\Debug\tempo_da_pizza.pdb

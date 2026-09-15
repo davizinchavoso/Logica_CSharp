@@ -1,0 +1,7 @@
+C:\Users\davi.sportela\Documents\C#\número_maior_que_100\número_maior_que_100\obj\Debug\número_maior_que_100.csproj.AssemblyReference.cache
+C:\Users\davi.sportela\Documents\C#\número_maior_que_100\número_maior_que_100\obj\Debug\número_maior_que_100.csproj.CoreCompileInputs.cache
+C:\Users\davi.sportela\Documents\C#\número_maior_que_100\número_maior_que_100\bin\Debug\número_maior_que_100.exe.config
+C:\Users\davi.sportela\Documents\C#\número_maior_que_100\número_maior_que_100\bin\Debug\número_maior_que_100.exe
+C:\Users\davi.sportela\Documents\C#\número_maior_que_100\número_maior_que_100\bin\Debug\número_maior_que_100.pdb
+C:\Users\davi.sportela\Documents\C#\número_maior_que_100\número_maior_que_100\obj\Debug\número_maior_que_100.exe
+C:\Users\davi.sportela\Documents\C#\número_maior_que_100\número_maior_que_100\obj\Debug\número_maior_que_100.pdb

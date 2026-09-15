@@ -1,0 +1,7 @@
+C:\Users\davi.sportela\Documents\C#\divisão_de_números\divisão_de_números\bin\Debug\divisão_de_números.exe.config
+C:\Users\davi.sportela\Documents\C#\divisão_de_números\divisão_de_números\bin\Debug\divisão_de_números.exe
+C:\Users\davi.sportela\Documents\C#\divisão_de_números\divisão_de_números\bin\Debug\divisão_de_números.pdb
+C:\Users\davi.sportela\Documents\C#\divisão_de_números\divisão_de_números\obj\Debug\divisão_de_números.csproj.AssemblyReference.cache
+C:\Users\davi.sportela\Documents\C#\divisão_de_números\divisão_de_números\obj\Debug\divisão_de_números.csproj.CoreCompileInputs.cache
+C:\Users\davi.sportela\Documents\C#\divisão_de_números\divisão_de_números\obj\Debug\divisão_de_números.exe
+C:\Users\davi.sportela\Documents\C#\divisão_de_números\divisão_de_números\obj\Debug\divisão_de_números.pdb
